@@ -12,7 +12,7 @@ const projectsData = [
         name: "Logoipsum Mobile App",
         year: "2024",
         logo: "/Images/project1.svg",
-        backgroundImage: "/Pmages/project01.jpg",
+        backgroundImage: "/Images/project01.jpg",
         description: "An intuitive, mobile-friendly design for an iPhone app focused on enhancing user productivity.",
         duration: "2 months",
         platform: "Skype",
